@@ -41,3 +41,10 @@
 .word-count{
   display: flex;
 }
+@media (max-width:578px){
+  .word-count1{
+    height: auto;
+    padding: 30px;
+    margin-top: 20px;
+  }
+}

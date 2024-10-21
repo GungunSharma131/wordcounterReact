@@ -41,7 +41,7 @@ function WordCounter(){
          <div className="container word-count1 " > 
          <div className="row">
             <div className="col-12">
-                <h1 className="head">Word Counting</h1>
+                <h1 className="head">Word Counter</h1>
                 <div className="form-floating mt-5">
                 <textarea  value = {Text} className="form-control w-50 text-para" placeholder="Leave a comment here" id="floatingTextarea2"  onChange={btnonchange}></textarea>
                 <label className="text-para1">Write Here....</label>
